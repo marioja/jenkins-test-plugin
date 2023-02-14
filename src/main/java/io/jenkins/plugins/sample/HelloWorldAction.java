@@ -26,7 +26,7 @@ public class HelloWorldAction implements RunAction2 {
 	@Override
 	public String getDisplayName() {
 		// TODO Auto-generated method stub
-		return "Greetings";
+		return "Greetings displayName";
 	}
 
 	@Override
